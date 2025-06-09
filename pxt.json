@@ -1,6 +1,6 @@
 {
     "name": "fwd-all",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Forward Education's full library of blocks.",
     "license": "MIT",
     "dependencies": {
