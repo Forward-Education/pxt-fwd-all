@@ -22,7 +22,9 @@
         "fwd-touch": "github:Forward-Education/pxt-fwd-modules/fwd-touch#v1.0.4"
     },
     "files": [],
-    "testFiles": [],
+    "testFiles": [
+        "tests/test.ts"
+    ],
     "public": true,
     "targetVersions": {
         "target": "7.0.61",
