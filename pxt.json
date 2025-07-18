@@ -1,7 +1,7 @@
 {
-    "name": "fwd-all",
+    "name": "all-fwd-blocks",
     "version": "1.1.0",
-    "description": "Forward Education's full library of blocks.",
+    "description": "Forward Education's full library of blocks. Use this extension to combine products and unlock new possibilities",
     "license": "MIT",
     "dependencies": {
         "fwd-dial": "github:Forward-Education/pxt-fwd-modules/fwd-dial#v1.0.8",
