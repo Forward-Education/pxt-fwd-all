@@ -1,4 +1,4 @@
-# all-fwd-blocks
+# fwd-all
 
 The full library of blocks supporting Forward Education's Jacdac modules. Combine kits to unlock new possibilities. Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/).
 
