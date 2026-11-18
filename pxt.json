@@ -22,7 +22,8 @@
         "fwd-touch": "github:Forward-Education/pxt-fwd-modules/fwd-touch#v1.0.10"
     },
     "files": [
-        "README.md"
+        "README.md",
+        "curriculum/ceibal/line-follower-robot.md"
     ],
     "testFiles": [
         "tests/test1.ts"
