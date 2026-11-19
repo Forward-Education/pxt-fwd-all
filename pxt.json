@@ -23,7 +23,8 @@
     },
     "files": [
         "README.md",
-        "curriculum/ceibal/line-follower-robot.md"
+        "curriculum/ceibal/line-follower-robot.md",
+        "curriculum/ceibal/robot-seguidor-de-linea.md"
     ],
     "testFiles": [
         "tests/test1.ts"
